@@ -1,0 +1,32 @@
+#titulo {
+    border: 4px solid #be0e0e;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+
+}
+
+body{background-color: #f38a8a;}
+
+  
+
+#texto{letter-spacing: 1px;}
+#texto{font-size: large;}
+
+#imagem1{
+   
+    margin:auto;
+    text-align: center;
+}
+
+#imagem2{text-align: center;
+border: #be0e0e;
+margin:auto;
+
+}
+
+
+
+
+
+
